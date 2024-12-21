@@ -1,4 +1,17 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# X-stalk
+
+X-stalk is a web application designed to curate insights from global tech entrepreneurs—saving your time, fueling your growth. It provides a streamlined interface for users to focus on what matters most.
+
+You can view the live site at [x-stalk.com](https://x-stalk.com).
+
+## Features
+
+- Modern UI with Geist font family integration
+- Responsive layout supporting both mobile and desktop views
+- User profile management system
+- Real-time notifications via Sonner toast
+- Analytics integration with Vercel
+- Clean and minimalist design philosophy
 
 ## Getting Started
 
